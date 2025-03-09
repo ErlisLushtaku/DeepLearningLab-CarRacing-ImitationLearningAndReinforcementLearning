@@ -1,4 +1,4 @@
-# Imitation and Reinforcement Learning exercise for Deep Learning Lab 2023. 
+# Imitation and Reinforcement Learning exercise for Deep Learning Lab 2023 at University of Freiburg. 
 Tested with python 3.7 and 3.8
 
 Recommended virtual environments: `conda` or `virtualenv`.
