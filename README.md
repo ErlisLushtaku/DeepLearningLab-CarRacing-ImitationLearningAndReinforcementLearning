@@ -10,8 +10,6 @@ pip install swig # Needs to be installed before requirements
 pip install -r requirements.txt
 ```
 
-Please format your code with `black .` before submission.
-
 ## Imitation Learning
 Data Collection
 ```[bash]
